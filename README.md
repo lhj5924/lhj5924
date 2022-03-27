@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CSS, about to understand box model and items.
 - 💞️ I’m looking to collaborate on making web site or game, after I study JavaScript. Making mobile game is my another goal. Hope to meet nice futue collegues.
 - 📫 How to reach me ... you can send me a mail to <b><i>lhyunjin1220@gmail.com</b></i>. 
-- 🐱 And I have <u>lovely cat!</u>
+- 🐱 And I have <b>lovely cat!</b>
 
 <!---
 lhj5924/lhj5924 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
