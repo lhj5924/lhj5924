@@ -1,8 +1,8 @@
 - 👋 Hi, I’m <b>Hyun Jin, Lee</b>. I'm living at Seoul, South Korea.
-- 👀 I’m interested in programming(just learned html, css and a bit of java script til now), investment and economy, books, and other things to improve my life.(such as exercise, listning to good music, or a nice cup of coffee)
-- 🌱 I’m currently learning Java Script.
-- 💞️ I’m looking to collaborate on making web site or game, after I study JavaScript. Making mobile game is my another goal. Hope to meet nice futue collegues.
-- 📫 How to reach me : you can send me a mail to <b><i>lhyunjin1220@gmail.com</b></i>. 
+- 👀 I’m interested in programming(HTML, CSS, JS, React, Redux, Styled-components), investment and economy, books, and other things to improve my life.(such as exercise, listning to good music, or a nice cup of coffee)
+- 🌱 I’m currently learning React and Redux.
+- 💞️ I’m looking to collaborate on making web site or game. Making mobile game is my another goal. Hope to meet nice futue collegues.
+- 📫 How to reach me : you can send me a mail to <b><i>nagi5924@gmail.com</b></i>. 
 - 🐱 And I have <b>lovely cat!</b>
 
 <!---
