@@ -10,6 +10,12 @@ lhj5924/lhj5924 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
+
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{lhj5924}?pet-id=1" width="1000" height="120"/>
+  <img
+    src="https://render.gitanimals.org/lines/lhj5924?pet-id=638560670867874501"
+    width="600"
+    height="120"
+  />
 </a>
+  
